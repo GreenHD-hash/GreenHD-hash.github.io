@@ -1,1 +1,90 @@
-# GreenHD-hash.github.io
+<a href="https://de.pcpartpicker.com/list/gqPQVW">PCPartPicker Part List</a>
+<table class="pcpp-part-list">
+  <thead>
+    <tr>
+      <th>Type</th>
+      <th>Item</th>
+      <th>Price</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="pcpp-part-list-type">CPU</td>
+      <td class="pcpp-part-list-item"><a href="https://de.pcpartpicker.com/product/3hyH99/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof">AMD Ryzen 7 7800X3D 4.2 GHz 8-Core Processor</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://de.pcpartpicker.com/product/3hyH99/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof">€395.00 @ Mindfactory</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">CPU Cooler</td>
+      <td class="pcpp-part-list-item"><a href="https://de.pcpartpicker.com/product/smDkcf/arctic-liquid-freezer-ii-280-728-cfm-liquid-cpu-cooler-acfre00066a">ARCTIC Liquid Freezer II 280 72.8 CFM Liquid CPU Cooler</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://de.pcpartpicker.com/product/smDkcf/arctic-liquid-freezer-ii-280-728-cfm-liquid-cpu-cooler-acfre00066a">€89.90 @ Galaxus</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Motherboard</td>
+      <td class="pcpp-part-list-item"><a href="https://de.pcpartpicker.com/product/YZgFf7/gigabyte-b650-gaming-x-ax-atx-am5-motherboard-b650-gaming-x-ax">Gigabyte B650 GAMING X AX ATX AM5 Motherboard</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://de.pcpartpicker.com/product/YZgFf7/gigabyte-b650-gaming-x-ax-atx-am5-motherboard-b650-gaming-x-ax">€193.99 @ Cyberport</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Memory</td>
+      <td class="pcpp-part-list-item"><a href="https://de.pcpartpicker.com/product/4kmmP6/corsair-vengeance-32-gb-2-x-16-gb-ddr5-5600-cl36-memory-cmk32gx5m2b5600c36">Corsair Vengeance 32 GB (2 x 16 GB) DDR5-5600 CL36 Memory</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://de.pcpartpicker.com/product/4kmmP6/corsair-vengeance-32-gb-2-x-16-gb-ddr5-5600-cl36-memory-cmk32gx5m2b5600c36">€89.90 @ Amazon Deutschland</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Storage</td>
+      <td class="pcpp-part-list-item"><a href="https://de.pcpartpicker.com/product/Zxw7YJ/samsung-970-evo-plus-1-tb-m2-2280-nvme-solid-state-drive-mz-v7s1t0bam">Samsung 970 Evo Plus 1 TB M.2-2280 PCIe 3.0 X4 NVME Solid State Drive</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://de.pcpartpicker.com/product/Zxw7YJ/samsung-970-evo-plus-1-tb-m2-2280-nvme-solid-state-drive-mz-v7s1t0bam">€42.99 @ Amazon Deutschland</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Storage</td>
+      <td class="pcpp-part-list-item"><a href="https://de.pcpartpicker.com/product/WJLypg/hitachi-internal-hard-drive-h3ik40003254sw">Hitachi H3IK40003254SW 4 TB 3.5" 5400 RPM Internal Hard Drive</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://de.pcpartpicker.com/product/WJLypg/hitachi-internal-hard-drive-h3ik40003254sw">€59.90 @ Amazon Deutschland</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Video Card</td>
+      <td class="pcpp-part-list-item"><a href="https://de.pcpartpicker.com/product/PG848d/evga-geforce-rtx-3090-24-gb-ftw3-ultra-gaming-video-card-24g-p5-3987-kr">EVGA FTW3 ULTRA GAMING GeForce RTX 3090 24 GB Video Card</a></td>
+      <td class="pcpp-part-list-price">
+        €700.00
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Case</td>
+      <td class="pcpp-part-list-item"><a href="https://de.pcpartpicker.com/product/ybNxFT/fractal-design-north-atx-mid-tower-case-fd-c-nor1c-02">Fractal Design North ATX Mid Tower Case</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://de.pcpartpicker.com/product/ybNxFT/fractal-design-north-atx-mid-tower-case-fd-c-nor1c-02">€122.90 @ Alza</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Power Supply</td>
+      <td class="pcpp-part-list-item"><a href="https://de.pcpartpicker.com/product/W4Tp99/gigabyte-ud750gm-750-w-80-gold-certified-fully-modular-atx-power-supply-gp-ud750gm">Gigabyte UD750GM 750 W 80+ Gold Certified Fully Modular ATX Power Supply</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://de.pcpartpicker.com/product/W4Tp99/gigabyte-ud750gm-750-w-80-gold-certified-fully-modular-atx-power-supply-gp-ud750gm">€81.90 @ Alza</a>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td class="pcpp-part-list-price-note">Prices include shipping, taxes, rebates, and discounts</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td class="pcpp-part-list-total">Total</td>
+      <td class="pcpp-part-list-total-price">€1776.48</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td class="pcpp-part-list-price-note">Generated by <a href="https://pcpartpicker.com">PCPartPicker</a> 2023-08-22 01:41 CEST+0200</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
